@@ -1,0 +1,14 @@
+{
+  "require": {
+    "php": ">=8.2"
+  },
+  "require-dev": {
+    "phpmd/phpmd": "^2.15",
+    "spryker/architecture-sniffer": "^0.5.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pyz\\": "src/Pyz"
+    }
+  }
+}
